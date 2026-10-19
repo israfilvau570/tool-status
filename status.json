@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "expiresAt": "2027-12-31T23:59:59Z",
   "message": "This tool has been disabled. Contact: @ISRAFILVAU"
 }
